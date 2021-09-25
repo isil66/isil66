@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @isil66 
 - 😎 I'm an undergraduate student in Bilkent University who majors in CS 
-- 🤠 I'm learning how to program
-- 💞️ I like to oil paint in my spare times
+- 🤠 I'm currently learning how to program
 - 📫 How to reach me: isilozgu2016@gmail.com
 
 <!---
