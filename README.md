@@ -2,7 +2,7 @@
 - 😎 I'm an undergraduate student in Bilkent University who majors in CS 
 - 🤠 I'm learning how to program
 - 💞️ I like to oil paint in my spare times
-- 📫 How to reach me: isil.ozgu@ug.bilkent.edu.tr
+- 📫 How to reach me: isilozgu2016@gmail.com
 
 <!---
 isil66/isil66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
