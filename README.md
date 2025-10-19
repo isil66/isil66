@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @isil66 
-- 😎 I'm an undergraduate student at Bilkent University who majors in CS 
+- 👋 Hi, I’m @isil66
+- 🤠 I am a CS PhD student at UCLA. Go Bruins!
+- 😎 I'm also a Bilkent CS Alumna. Hi fellow Bilkenters!
 - 📫 To reach out: isilozgu2016@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isil66&show_icons=true&theme=transparent)
